@@ -1,5 +1,7 @@
 # findhundreds.py
-# To run this program, go to Run-> Run... Customized
+
+### To run this program, go to Run-> Run... Customized ###
+### Then enter the integer you want to test in the box ###
 
 # This is called importing a library.
 # This library lets us read command line arguments.
